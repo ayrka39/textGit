@@ -31,7 +31,11 @@ Git Cheat Sheet
 	3.6. branch
 	3.7. tag -l
 4. Change
+<<<<<<< HEAD
 	4.1. add **LOOK here** I changed
+=======
+	4.1. add
+>>>>>>> 38ca1a47ee06717f7d3870a01dcc22a272c30b25
 5. Revert (a new commit that undoes previous commits)
 	5.1. reset --hard (no undo - reset to last commit)
 	5.2. revert branch
