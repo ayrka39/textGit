@@ -31,7 +31,7 @@ Git Cheat Sheet
 	3.6. branch
 	3.7. tag -l
 4. Change
-	4.1. add **LOOK here** I changed
+	4.1. add I changed
 5. Revert (a new commit that undoes previous commits)
 	5.1. reset --hard (no undo - reset to last commit)
 	5.2. revert branch
